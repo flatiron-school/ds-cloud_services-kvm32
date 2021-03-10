@@ -32,6 +32,7 @@ There are also some cloud IDEs with GPUs, where you can run Jupyter Notebook cod
  - [Google Colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
  - [Kaggle kernels](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)
 
+You can upload Jupyter notebooks also to data.world.
 
 Because there is a GPU available in the free tier, Google Colab is the most popular of these tools for our students. [Here](https://medium.com/@sam.bbmgmt/integrating-google-drive-colab-with-github-bffaca97eb5b) is a blog post from a former student explaining how to use the file system!
 
